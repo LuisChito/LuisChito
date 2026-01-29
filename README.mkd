@@ -1,0 +1,41 @@
+# LuisChito
+
+## Sobre mí
+
+Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web con experiencia en desarrollo full-stack. Actualmente trabajo como desarrollador web en una empresa privada, donde construyo aplicaciones web modernas y escalables.
+
+## Proyectos destacados
+
+- **Proyecto OpenSource** - Próximamente (en desarrollo) :) ...
+
+## Habilidades
+
+### Lenguajes de programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Bases de datos
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### Control de versiones
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Contacto
+
+- GitHub: [LuisChito](https://github.com/LuisChito)
+- LinkedIn: [Luis Salazar](https://www.linkedin.com/in/luis-salazar-chz/l)
+
+## Estadísticas
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisChito)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+*Última actualización: Enero 2026*
