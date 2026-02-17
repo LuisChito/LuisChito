@@ -4,10 +4,6 @@
 
 Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web con experiencia en desarrollo full-stack. Actualmente trabajo como desarrollador web en una empresa privada, donde construyo aplicaciones web modernas y escalables.
 
-## Proyectos destacados
-
-- **Proyecto OpenSource** - Próximamente (en desarrollo) :) ...
-
 ## Habilidades
 
 ### Lenguajes de programación
