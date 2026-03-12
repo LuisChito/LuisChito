@@ -32,8 +32,13 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ## Estadísticas
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisChito)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<a href="https://github.com/LuisChito">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisChito&theme=monokai&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisChito&theme=monokai&show_icons=true&hide_border=true&layout=compact" />
+</a>
+</p>
 
 ---
 
-*Última actualización: Enero 2026*
+*Última actualización: Marzo 2026*
