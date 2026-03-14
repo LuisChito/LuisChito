@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/03/2026: **Ano 2020** - en España se aprueba el real decreto por el cual se establece el Estado de alarma y el confinamiento debido a la pandemia de COVID-19.
+- 14/03/2026: **Año 2020** - en España se aprueba el real decreto por el cual se establece el Estado de alarma y el confinamiento debido a la pandemia de COVID-19.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
