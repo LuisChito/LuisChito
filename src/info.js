@@ -37,7 +37,7 @@ async function getFirstHistoricalEvent(date) {
     }
 
     const cleanText = String(firstEvent.text || '').replace(/\s+/g, ' ').trim();
-    return `- ${twoDigits(date.getDate())}/${twoDigits(date.getMonth() + 1)}/${date.getFullYear()}: **Ano ${firstEvent.year}** - ${cleanText}`;
+    return `- ${twoDigits(date.getDate())}/${twoDigits(date.getMonth() + 1)}/${date.getFullYear()}: **Año ${firstEvent.year}** - ${cleanText}`;
 }
 
 async function updateReadme() {
