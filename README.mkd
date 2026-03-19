@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 18/03/2026: **Año 2025** - Israel rompe unilateralmente el alto el fuego con Hamás mediante los ataques que dejaron más de 400 muertos, reanudando la Guerra de Gaza.
+- 19/03/2026: **Año 2020** - en Argentina el presidente Alberto Ángel Fernández estipula, mediante un decreto de necesidad y urgencia (DNU), que desde el día 20 de marzo de 2020 a las 00:00:00 horas hasta el 31 de marzo de 2020 a las 23:59:59 horas habrá «aislamiento total» y «cuarentena obligatoria» para evitar la circulación de personas en la vía pública, y de esta forma evitar la propagación del coronavirus (covid‑19). También decreta que quien viole el toque de queda cometerá un delito.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 18 de marzo de 2026*
+*Última actualización: 19 de marzo de 2026*
