@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/03/2026: **Año 2020** - en Argentina el presidente Alberto Ángel Fernández estipula, mediante un decreto de necesidad y urgencia (DNU), que desde el día 20 de marzo de 2020 a las 00:00:00 horas hasta el 31 de marzo de 2020 a las 23:59:59 horas habrá «aislamiento total» y «cuarentena obligatoria» para evitar la circulación de personas en la vía pública, y de esta forma evitar la propagación del coronavirus (covid‑19). También decreta que quien viole el toque de queda cometerá un delito.
+- 20/03/2026: **Año 2022** - La atleta venezolana Yulimar Rojas bate su propio récord mundial en triple salto de 15,67 metros conseguido en los Juegos Olímpicos Tokio 2020, por 15,74 metros en la final del Mundial en Pista Cubierta en Belgrado, Serbia.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de marzo de 2026*
+*Última actualización: 20 de marzo de 2026*
