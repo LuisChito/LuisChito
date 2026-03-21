@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 20/03/2026: **Año 2022** - La atleta venezolana Yulimar Rojas bate su propio récord mundial en triple salto de 15,67 metros conseguido en los Juegos Olímpicos Tokio 2020, por 15,74 metros en la final del Mundial en Pista Cubierta en Belgrado, Serbia.
+- 21/03/2026: **Año 2018** - Pedro Pablo Kuczynski renuncia a la presidencia del Perú, en su tercer año de mandato, siendo el punto fuerte de la crisis política que el país vivió entre 2017 y 2018.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 20 de marzo de 2026*
+*Última actualización: 21 de marzo de 2026*
