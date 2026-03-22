@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 21/03/2026: **Año 2018** - Pedro Pablo Kuczynski renuncia a la presidencia del Perú, en su tercer año de mandato, siendo el punto fuerte de la crisis política que el país vivió entre 2017 y 2018.
+- 22/03/2026: **Año 2024** - en la ciudad de Krasnogorsk (dentro del Gran Moscú, Rusia), se produce el atentado del Crocus City Hall por parte del grupo paramilitar Estado Islámico del Gran Jorasán, reportándose 144 muertos y más de 500 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 21 de marzo de 2026*
+*Última actualización: 22 de marzo de 2026*
