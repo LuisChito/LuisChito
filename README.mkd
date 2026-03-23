@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/03/2026: **Año 2024** - en la ciudad de Krasnogorsk (dentro del Gran Moscú, Rusia), se produce el atentado del Crocus City Hall por parte del grupo paramilitar Estado Islámico del Gran Jorasán, reportándose 144 muertos y más de 500 heridos.
+- 23/03/2026: **Año 2025** - En España, una borrasca provoca una crecida del Río Tajo, que derrumba parte del Puente Medieval de Talavera de la Reina.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 22 de marzo de 2026*
+*Última actualización: 23 de marzo de 2026*
