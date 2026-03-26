@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/03/2026: **Año 2025** - En el Monumental, Argentina, por primera en la historia Brasil pierde por goleada en las Eliminatorias Conmebol tras caer por 4 a 1 con Argentina. A su vez, Lionel Scaloni se convierte en el primer entrenador en ganar en partido de ida y vuelta al combinado brasileño.
+- 26/03/2026: **Año 2024** - en Baltimore (Maryland, Estados Unidos), se produce el derrumbe del puente Francis Scott Key tras ser impactado por el buque portacontenedores MV Dali.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 25 de marzo de 2026*
+*Última actualización: 26 de marzo de 2026*
