@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/03/2026: **Año 2022** - en el derby español entre Real Madrid C. F. y F. C. Barcelona que marcaba la vuelta de cuartos de final de la UEFA Champions League femenil se estableció el récord de asistencia en un partido de fútbol femenino con un total de 91 553 aficionados presentes en el Camp Nou. Un día histórico para el balompié de mujeres.
+- 31/03/2026: **Año 2023** - en el medio oeste de Estados Unidos se produce un brote histórico de tornados.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de marzo de 2026*
+*Última actualización: 31 de marzo de 2026*
