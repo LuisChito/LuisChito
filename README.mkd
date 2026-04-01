@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 31/03/2026: **Año 2023** - en el medio oeste de Estados Unidos se produce un brote histórico de tornados.
+- 01/04/2026: **Año 2022** - Los canales FXM (Latinoamérica), Star Life, Nat Geo Wild, Nat Geo Kids, y Disney XD finalizan sus emisiones por una reestructuración de Disney.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 31 de marzo de 2026*
+*Última actualización: 01 de abril de 2026*
