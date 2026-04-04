@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/04/2026: **Año 2022** - En Costa Rica se lleva a cabo la elección presidencial, en manera de balotaje, para elegir al presidente del período 2022-2026. Se enfrentan José María Figueres del Partido Liberación Nacional y Rodrigo Chaves del Partido Progreso Social Democrático. Al final de la noche, Rodrigo Chaves salió vencedor con más del 52% de los votos.
+- 04/04/2026: **Año 2023** - Finlandia se convierte en el miembro 31 de la OTAN después de que Turquía acepta su solicitud de membresía.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de abril de 2026*
+*Última actualización: 04 de abril de 2026*
