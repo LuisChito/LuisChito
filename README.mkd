@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 04/04/2026: **Año 2023** - Finlandia se convierte en el miembro 31 de la OTAN después de que Turquía acepta su solicitud de membresía.
+- 05/04/2026: **Año 2024** - en Quito (Ecuador), se produce el asalto a la embajada de México en Ecuador para arrestar al exvicepresidente Jorge Glas, ocasionando la ruptura de las relaciones diplomáticas entre dichos países, tras 194 años de historia.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 04 de abril de 2026*
+*Última actualización: 05 de abril de 2026*
