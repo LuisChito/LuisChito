@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/04/2026: **Año 2024** - en Quito (Ecuador), se produce el asalto a la embajada de México en Ecuador para arrestar al exvicepresidente Jorge Glas, ocasionando la ruptura de las relaciones diplomáticas entre dichos países, tras 194 años de historia.
+- 06/04/2026: **Año 2025** - Alexander Ovechkin marca su gol 895 en la NHL, superando el histórico record de Wayne Gretzky
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de abril de 2026*
+*Última actualización: 06 de abril de 2026*
