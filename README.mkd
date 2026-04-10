@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 09/04/2026: **Año 2022** - en Nuevo León, México se reporta como desaparecida a Debanhi Escobar, caso que conmocionaría al país.
+- 10/04/2026: **Año 2022** - se llevaron a cabo las elecciones presidenciales en Francia, Emmanuel Macron y Marine Le Pen pasaron a segunda vuelta.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 09 de abril de 2026*
+*Última actualización: 10 de abril de 2026*
