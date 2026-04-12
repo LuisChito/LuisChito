@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 11/04/2026: **Año 2023** - En Chile, es celebrado por primera vez el Día del Parkinson.
+- 12/04/2026: **Año 2022** - en un vagón en el metro de Nueva York, se registra un tiroteo que deja al menos 16 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 11 de abril de 2026*
+*Última actualización: 12 de abril de 2026*
