@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 15/04/2026: **Año 2021** - Florencia Chagas se convierte en la primera baloncestista argentina en la historia en ser drafteada en la WNBA. Formará parte de la franquicia Indiana Fever.
+- 17/04/2026: **Año 2019** - en Lima (Perú), Alan García Pérez, dos veces presidente, se dispara un tiro en la cabeza, cuando la Policía iba a arrestarlo por el caso Odebrecht.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 15 de abril de 2026*
+*Última actualización: 17 de abril de 2026*
