@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/04/2026: **Año 2025** - durante la previa de WrestleMania 41, la empresa estadounidense de lucha libre profesional WWE anunció la adquisición de la empresa mexicana Lucha Libre AAA Worldwide (AAA).
+- 20/04/2026: **Año 2024** - En todas las capitales insulares de Canarias y en varias ciudades europeas se lleva a cabo una manifestación multitudinaria en contra de la masificación turística del archipiélago canario.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de abril de 2026*
+*Última actualización: 20 de abril de 2026*
