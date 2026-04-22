@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 21/04/2026: **Año 2025** - en la Ciudad del Vaticano, fallece el papa Francisco y comienza la Sede vacante de la Santa Sede.
+- 22/04/2026: **Año 2022** - en México inician olas masivas de protestas para exigir justicia por la muerte de Debanhi Escobar, desaparecida en el estado mexicano de Nuevo León, luego de 13 exhaustivos días en su búsqueda.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 21 de abril de 2026*
+*Última actualización: 22 de abril de 2026*
