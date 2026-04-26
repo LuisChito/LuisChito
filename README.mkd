@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/04/2026: **Año 2019** - se inaugura la Línea 2 del Metro de Panamá.
+- 26/04/2026: **Año 2025** - en la Ciudad del Vaticano se llevó a cabo la misa de exequias y despedida al Papa Francisco, fallecido días antes. Ese mismo día, en el funeral del pontífice, se reunieron Donald Trump y Volodimir Zelenski para continuar las negociaciones y dar fin al conflicto entre Rusia y Ucrania
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 25 de abril de 2026*
+*Última actualización: 26 de abril de 2026*
