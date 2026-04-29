@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 28/04/2026: **Año 2025** - en España, Portugal y el sur de Francia se produce un apagón general durante más de 10 horas, que causa impacto a todos los servicios e infraestructuras críticas y hogares. Se desconocen las causas.
+- 29/04/2026: **Año 2025** - en México se realiza el primer simulacro nacional de Protección Civil.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 28 de abril de 2026*
+*Última actualización: 29 de abril de 2026*
