@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 01/05/2026: **Año 2023** - en Ecuador, el periodista Alfonso Espinosa de los Monteros se retira de la pantalla tras 56 años de trabajo y contar con un Récord Guinness como el presentador de noticias con más años al aire ininterrumpidamente.
+- 02/05/2026: **Año 2022** - Se celebró la Met Gala en el Museo Metropolitano de Arte y el tema fue "Gilded glamour and White tie".
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 01 de mayo de 2026*
+*Última actualización: 02 de mayo de 2026*
