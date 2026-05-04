@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/05/2026: **Año 2021** - En la Ciudad de México, se desploma el tramo elevado de la Línea 12 del Metro de la Ciudad de México entre la interestación Tezonco-Olivos, descarrilando dos vagones, con al menos 27 personas muertas y 80 personas heridas. Es considerado como el peor accidente del Metro de la Ciudad de México, desde la Colisión de trenes en el Metro de la Ciudad de México de 1975.
+- 04/05/2026: **Año 2021** - en México, un vagón de la línea 12 del metro de Ciudad cae debido a daños estructurales del puente por el que estaba pasando. Hasta las 12:23 se contabilizaban 15 muertos y 70 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de mayo de 2026*
+*Última actualización: 04 de mayo de 2026*
