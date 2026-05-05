@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 04/05/2026: **Año 2021** - en México, un vagón de la línea 12 del metro de Ciudad cae debido a daños estructurales del puente por el que estaba pasando. Hasta las 12:23 se contabilizaban 15 muertos y 70 heridos.
+- 05/05/2026: **Año 2025** - Microsoft cierra los servidores de Skype tras más 21 años en servicio, mudando la información y contactos de los usuarios de esta plataforma a Microsoft Teams.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 04 de mayo de 2026*
+*Última actualización: 05 de mayo de 2026*
