@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/05/2026: **Año 2025** - Microsoft cierra los servidores de Skype tras más 21 años en servicio, mudando la información y contactos de los usuarios de esta plataforma a Microsoft Teams.
+- 06/05/2026: **Año 2025** - Rockstar Games lanza el segundo tráiler de Grand Theft Auto VI a través de sus redes sociales.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de mayo de 2026*
+*Última actualización: 06 de mayo de 2026*
