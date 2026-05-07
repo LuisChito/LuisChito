@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/05/2026: **Año 2025** - Rockstar Games lanza el segundo tráiler de Grand Theft Auto VI a través de sus redes sociales.
+- 07/05/2026: **Año 2025** - Comienza el cónclave para elegir al 267.° Papa de la Iglesia católica.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 06 de mayo de 2026*
+*Última actualización: 07 de mayo de 2026*
