@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 11/05/2026: **Año 2024** - satélites detectan una erupción solar de clase X5.89, la cual causa una tormenta geomagnética G5 (extrema) que generará auroras polares en regiones inusuales. La NOAA emite alerta máxima por tormenta solar grave. Es la tormenta geomagnética más intensa desde el 28 y 29 de octubre de 2003.
+- 12/05/2026: **Año 2024** - terminan las tormentas solares de mayo de 2024, el conjunto de tormentas geomagnéticas más potente desde las tormentas solares de Halloween de 2003.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 11 de mayo de 2026*
+*Última actualización: 12 de mayo de 2026*
