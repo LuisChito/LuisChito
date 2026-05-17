@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 16/05/2026: **Año 2021** - Andrea Meza , gana el título de Miss Universo, frente a 73 candidatas de diferentes naciones, dándole a México su cuarta corona.
+- 17/05/2026: **Año 2023** - En Ecuador por primera vez en su historia y desde que la ley del Art. 148 llamada la "Muerte Cruzada" fuese aprobada por la constitución en 2008, el presidente Guillermo Lasso decide decretarla, siendo disuelta la Asamblea Nacional, resultando cerrada y puesta bajo resguardo policial y militar impidiendo el ingreso de los funcionarios. Finalizando así el Cuarto período legislativo de la Asamblea Nacional del Ecuador, y convocándose a nuevas elecciones el 20 de agosto de 2023 (elecciones exprés).
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 16 de mayo de 2026*
+*Última actualización: 17 de mayo de 2026*
