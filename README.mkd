@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/05/2026: **Año 2024** - en Varzaqan (Irán), un accidente aéreo deja un saldo de ocho fallecidos, entre ellos el presidente iraní Ebrahim Raisi y el ministro de Asuntos Exteriores Hossein Amir-Abdollahian.
+- 20/05/2026: **Año 2025** - En la Ciudad de México, son asesinados por el crimen organizado, 2 funcionarios públicos allegados a la jefa de gobierno Clara Brugada, sobre la Calzada de Tlalpan a la altura de la estación Xola de la Línea 2 del Metro, sin que se registre detenidos al momento de la agresión.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de mayo de 2026*
+*Última actualización: 20 de mayo de 2026*
