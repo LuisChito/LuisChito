@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 20/05/2026: **Año 2025** - En la Ciudad de México, son asesinados por el crimen organizado, 2 funcionarios públicos allegados a la jefa de gobierno Clara Brugada, sobre la Calzada de Tlalpan a la altura de la estación Xola de la Línea 2 del Metro, sin que se registre detenidos al momento de la agresión.
+- 21/05/2026: **Año 2025** - en el estadio de San Mamés, en Bilbao (País Vasco) ―en la final de la Liga Europa de la UEFA 2024-2025―, el equipo inglés Tottenham Hotspur vence por 1 a 0 al equipo inglés Manchester United gracias a un tanto del galés Brennan Johnson, que de esa manera corta una racha de 17 años consecutivos sin títulos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 20 de mayo de 2026*
+*Última actualización: 21 de mayo de 2026*
