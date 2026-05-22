@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 21/05/2026: **Año 2025** - en el estadio de San Mamés, en Bilbao (País Vasco) ―en la final de la Liga Europa de la UEFA 2024-2025―, el equipo inglés Tottenham Hotspur vence por 1 a 0 al equipo inglés Manchester United gracias a un tanto del galés Brennan Johnson, que de esa manera corta una racha de 17 años consecutivos sin títulos.
+- 22/05/2026: **Año 2021** - en una región montañosa de China, 1392 km al oeste de Beijing y 510 km al sur de la frontera con Mongolia, la hipotermia mata a 21 corredores en el desastre del ultramaratón de Gansu de 100 km.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 21 de mayo de 2026*
+*Última actualización: 22 de mayo de 2026*
