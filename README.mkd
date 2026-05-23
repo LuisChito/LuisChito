@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/05/2026: **Año 2021** - en una región montañosa de China, 1392 km al oeste de Beijing y 510 km al sur de la frontera con Mongolia, la hipotermia mata a 21 corredores en el desastre del ultramaratón de Gansu de 100 km.
+- 23/05/2026: **Año 2021** - se celebraron los Billboard Music Awards en el Microsoft Theatre. El presentador fue Nick Jonas.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 22 de mayo de 2026*
+*Última actualización: 23 de mayo de 2026*
