@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 24/05/2026: **Año 2022** - en el estado de Texas (Estados Unidos) ocurre el Tiroteo en la Escuela Primaria Robb de Texas.
+- 25/05/2026: **Año 2025** - en México, Toluca se corona campeón por undécima vez, del fútbol mexicano tras 15 años sin poder ganar un título, desde el Torneo Bicentenario 2010, cuando consiguió su último título y rompe la hegemonía del América, iniciada desde 2023, que buscaba lograr un tetracampeonato.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 24 de mayo de 2026*
+*Última actualización: 25 de mayo de 2026*
