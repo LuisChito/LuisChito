@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/05/2026: **Año 2025** - Taylor Swift anuncia la compra de los másteres de sus primeros seis álbumes de estudio, recuperando así el derecho total sobre las versiones originales de éstos.
+- 31/05/2026: **Año 2025** - El Paris Saint-Germain le gana 5-0 al Inter de Milán, proclamándose campeón por primera vez de la Champions en su Liga de Campeones de la UEFA 2024-25
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de mayo de 2026*
+*Última actualización: 31 de mayo de 2026*
