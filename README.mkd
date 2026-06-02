@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 01/06/2026: **Año 2024** - En Londres, el Real Madrid consigue su 15.ª Liga de Campeones de la UEFA tras derrotar por un 0 - 2 al Borussia Dortmund.
+- 02/06/2026: **Año 2024** - en México, Claudia Sheinbaum se convierte en la primera mujer en ser presidente de esa nación.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 01 de junio de 2026*
+*Última actualización: 02 de junio de 2026*
