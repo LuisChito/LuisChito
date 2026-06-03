@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 02/06/2026: **Año 2024** - en México, Claudia Sheinbaum se convierte en la primera mujer en ser presidente de esa nación.
+- 03/06/2026: **Año 2019** - en Jartum (Sudán), a orillas de río Nilo, las fuerzas de seguridad acompañadas por paramilitares yanyauid abren fuego contra una sentada de protesta y asesinan a más de 100 personas (masacre de Jartum).
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 02 de junio de 2026*
+*Última actualización: 03 de junio de 2026*
