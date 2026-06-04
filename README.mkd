@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/06/2026: **Año 2019** - en Jartum (Sudán), a orillas de río Nilo, las fuerzas de seguridad acompañadas por paramilitares yanyauid abren fuego contra una sentada de protesta y asesinan a más de 100 personas (masacre de Jartum).
+- 04/06/2026: **Año 2024** - Ocurrió una extraordinaria alineación planetaria entre Mercurio, Marte, Júpiter, Saturno, Urano y Neptuno.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de junio de 2026*
+*Última actualización: 04 de junio de 2026*
