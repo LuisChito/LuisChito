@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 04/06/2026: **Año 2024** - Ocurrió una extraordinaria alineación planetaria entre Mercurio, Marte, Júpiter, Saturno, Urano y Neptuno.
+- 05/06/2026: **Año 2025** - sale la Nintendo Switch 2 y rompe récords de ventas.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 04 de junio de 2026*
+*Última actualización: 05 de junio de 2026*
