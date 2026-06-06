@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/06/2026: **Año 2025** - sale la Nintendo Switch 2 y rompe récords de ventas.
+- 06/06/2026: **Año 2023** - en Ucrania se produce la voladura de la presa en Nova Kajovka en el marco de la guerra ruso-ucraniana, causando masivas inundaciones en las orillas del río Dnieper.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de junio de 2026*
+*Última actualización: 06 de junio de 2026*
