@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 07/06/2026: **Año 2025** - 11 km al noroccidente del centro de Bogotá (Colombia) el precandidato presidencial y senador neoliberal Miguel Uribe Turbay (
+- 08/06/2026: **Año 2025** - la Selección de fútbol de Portugal gana por segunda vez la UEFA Nations League tras ganar por penaltis 5 a 3 a la Selección de fútbol de España en la edición 2024–25.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 07 de junio de 2026*
+*Última actualización: 08 de junio de 2026*
