@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 09/06/2026: **Año 2007** - en Estados Unidos, el transbordador espacial Atlantis sufre un daño en el escudo térmico que podría comprometer la misión.
+- 10/06/2026: **Año 2023** - En Estambul se disputa la final de la Liga de Campeones de la UEFA, siendo victorioso el Manchester City FC inglés ante el Inter de Milán italiano por un gol a cero.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 09 de junio de 2026*
+*Última actualización: 10 de junio de 2026*
