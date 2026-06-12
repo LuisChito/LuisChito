@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 11/06/2026: **Año 2026** - En México será inaugurado Copa del Mundo 2026, siendo histórico al ser el primero con 48 selecciones, sede en tres países (México, Estados Unidos y Canadá respectivamente), siendo México el primer país en tener 3 mundiales tras las ediciones de 1970 y 1986, y en ser inaugurado por una mujer.
+- 12/06/2026: **Año 2025** - en Ahmedabad (India), el vuelo 171 de Air India, con destino a Londres choca minutos después del despegue. 260 personas perdieron la vida.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 11 de junio de 2026*
+*Última actualización: 12 de junio de 2026*
