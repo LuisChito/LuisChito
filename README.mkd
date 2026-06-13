@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 12/06/2026: **Año 2025** - en Ahmedabad (India), el vuelo 171 de Air India, con destino a Londres choca minutos después del despegue. 260 personas perdieron la vida.
+- 13/06/2026: **Año 2025** - Israel lanza la operación león ascendiente contra Irán provocando daños severos en instalaciones nucleares y bajas de civiles inocentes.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 12 de junio de 2026*
+*Última actualización: 13 de junio de 2026*
