@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/06/2026: **Año 2025** - Comienza la vigesimoprimera y la primera edición de un formato ampliado de 32 clubes de las 6 confederaciones continentales de la Copa Mundial de Clubes de la FIFA 2025.
+- 15/06/2026: **Año 2025** - Comienza la Copa Mundial de Clubes de la FIFA de 2025, en Estados Unidos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 14 de junio de 2026*
+*Última actualización: 15 de junio de 2026*
