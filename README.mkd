@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 15/06/2026: **Año 2025** - Comienza la Copa Mundial de Clubes de la FIFA de 2025, en Estados Unidos.
+- 16/06/2026: **Año 2019** - se produce un apagón eléctrico histórico en varios países de América del Sur, originado en Argentina, que afectó por completo a su territorio nacional (excepto Tierra de Fuego), a Uruguay y Paraguay.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 15 de junio de 2026*
+*Última actualización: 16 de junio de 2026*
