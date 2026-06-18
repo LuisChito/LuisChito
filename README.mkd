@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 17/06/2026: **Año 2018** - tras las Elecciones presidenciales de Colombia de 2018, el abogado Iván Duque es investido como presidente electo de la República de Colombia.
+- 18/06/2026: **Año 2025** - marcha tras la Condena, de Cristina Fernández de Kirchner, a Plaza de Mayo cercana a la Casa Rosada.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 17 de junio de 2026*
+*Última actualización: 18 de junio de 2026*
