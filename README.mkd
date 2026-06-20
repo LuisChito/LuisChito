@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/06/2026: **Año 2022** - en Colombia se celebra la segunda vuelta de las Elecciones presidenciales de 2022, en la que el Gustavo Petro fue electo presidente para el periodo 2022-2026
+- 20/06/2026: **Año 2025** - Netflix estrena su película más exitosa de su plataforma Las guerreras K-pop, que se convirtió en un fenómeno global
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de junio de 2026*
+*Última actualización: 20 de junio de 2026*
