@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 20/06/2026: **Año 2025** - Netflix estrena su película más exitosa de su plataforma Las guerreras K-pop, que se convirtió en un fenómeno global
+- 21/06/2026: **Año 2025** - el Real Oviedo logra el ascenso a la primera división de España tras vencer en los Play-off .
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 20 de junio de 2026*
+*Última actualización: 21 de junio de 2026*
