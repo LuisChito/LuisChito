@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/06/2026: **Año 2023** - Se declara fallecidos a los 5 pasajeros del sumergible Titan, a causa de una implosión en el incidente del sumergible Titan, en el Atlántico Norte, en el Pecio del RMS Titanic.
+- 23/06/2026: **Año 2023** - el líder del Grupo Wagner, Yevgueni Prigozhin, inicia una rebelión en contra del Ministerio de Defensa de Rusia.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 22 de junio de 2026*
+*Última actualización: 23 de junio de 2026*
