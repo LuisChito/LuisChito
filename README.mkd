@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 24/06/2026: **Año 2025** - La guerra de los doce días entre la República Islámica de Irán e Israel llega a su fin tras la mediación del 47° presidente de los Estados Unidos de América, Donald Trump.
+- 25/06/2026: **Año 2022** - las Fuerzas Armadas de Ucrania se retiran de la ciudad de Severodonetsk.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 24 de junio de 2026*
+*Última actualización: 25 de junio de 2026*
