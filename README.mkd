@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/06/2026: **Año 2022** - las Fuerzas Armadas de Ucrania se retiran de la ciudad de Severodonetsk.
+- 26/06/2026: **Año 2024** - una facción de las Fuerzas Armadas de Bolivia intentan un golpe de Estado contra el presidente constitucional Luis Arce, cuyo resultado fue fallido, como resultado se realiza la detención del entonces general Juan José Zúñiga. Sin embargo, Zúñiga acusó al presidente Arce de haber promovido un "autogolpe".
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 25 de junio de 2026*
+*Última actualización: 26 de junio de 2026*
