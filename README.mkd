@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 27/06/2026: **Año 2023** - en Londres, la casa de subastas Sotheby's vende la pintura Dama con abanico (1918); obra de Gustav Klimt, por un valor de £85,3 millones de libras esterlinas (U$108,4 millones de dólares) a un coleccionista hongkonés, convirtiéndola en la obra de arte más costosa jamás subastada en Europa.
+- 28/06/2026: **Año 2019** - en Costa Rica hay disturbios en las calles. Los estudiantes se manifiestan, exigiendo la salida del ministro de educación Edgar Mora.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 27 de junio de 2026*
+*Última actualización: 28 de junio de 2026*
