@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 28/06/2026: **Año 2019** - en Costa Rica hay disturbios en las calles. Los estudiantes se manifiestan, exigiendo la salida del ministro de educación Edgar Mora.
+- 29/06/2026: **Año 2014** - desde la ciudad de Wŏnsan (Corea del Norte), el Gobierno norcoreano lanza dos misiles balísticos de modelo Scud al mar oriental de Japón, lo que genera nuevos reclamos de los países opositores.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 28 de junio de 2026*
+*Última actualización: 29 de junio de 2026*
