@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 29/06/2026: **Año 2014** - desde la ciudad de Wŏnsan (Corea del Norte), el Gobierno norcoreano lanza dos misiles balísticos de modelo Scud al mar oriental de Japón, lo que genera nuevos reclamos de los países opositores.
+- 30/06/2026: **Año 2025** - en España, el Secretario de Organización del PSOE Santos Cerdán ingresa en prisión preventiva por su presunta implicación en los casos de corrupción en los que está envuelto el Gobierno de España.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 29 de junio de 2026*
+*Última actualización: 30 de junio de 2026*
