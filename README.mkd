@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/06/2026: **Año 2025** - en España, el Secretario de Organización del PSOE Santos Cerdán ingresa en prisión preventiva por su presunta implicación en los casos de corrupción en los que está envuelto el Gobierno de España.
+- 01/07/2026: **Año 2025** - El político español Santos Cerdán es encarcelado por el caso Koldo, debilitando así a la administración de Pedro Sánchez.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de junio de 2026*
+*Última actualización: 01 de julio de 2026*
