@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 02/07/2026: **Año 2015** - en Bogotá (Colombia), explotan dos bombas. Se culpa al grupo guerrillero ELN (Ejército de Liberación Nacional).
+- 03/07/2026: **Año 2025** - en Cernadilla (Zamora, España), un accidente de tránsito acaba con la vida del futbolista del Liverpool F.C, Diogo Jota y su hermano André Silva.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 02 de julio de 2026*
+*Última actualización: 03 de julio de 2026*
