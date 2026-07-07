@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/07/2026: **Año 2023** - se registra la temperatura media global más alta con 17,08 °C (62,74 °F).
+- 07/07/2026: **Año 2025** - Bajo Ebro, Cataluña: se inicia el Incendio forestal de Pauls, que afectó a los municipios de Cherta, Aldover, Pauls y Alfara. Aunque se inició en el término municipal de Pauls, fue la población de Cherta la más afectada, con un perímetro del fuego que afectó a más del 50% de la superficie del municipio, el cual será recordado como el mayor incendio de la zona desde que se tienen registros.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 06 de julio de 2026*
+*Última actualización: 07 de julio de 2026*
