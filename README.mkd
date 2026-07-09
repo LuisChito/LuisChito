@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 08/07/2026: **Año 2022** - en Nara (Japón), una víctima de la secta Moon asesina de un tiro por la espalda al ex primer ministro japonés Shinzō Abe, quien durante su mandato promovió esa religión.
+- 09/07/2026: **Año 2024** - en el Día de la Independencia de Argentina y en honor a los padres fundadores, el presidente Javier Milei junto a 18 gobernadores provinciales e importantes figuras políticas nacionales, firmaron el famoso 'Pacto de Mayo' propuesto por el gobierno oficialista con el objetivo de llevar a cabo la reconstrucción de las bases del país y confrontar la crísis económica y social que acechan hace décadas a los argentinos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 08 de julio de 2026*
+*Última actualización: 09 de julio de 2026*
