@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 09/07/2026: **Año 2024** - en el Día de la Independencia de Argentina y en honor a los padres fundadores, el presidente Javier Milei junto a 18 gobernadores provinciales e importantes figuras políticas nacionales, firmaron el famoso 'Pacto de Mayo' propuesto por el gobierno oficialista con el objetivo de llevar a cabo la reconstrucción de las bases del país y confrontar la crísis económica y social que acechan hace décadas a los argentinos.
+- 10/07/2026: **Año 2021** - en Brasil y contra la Selección local, en el clásico de clásicos, la Selección Argentina se consagró campeona de América y cortó así con una sequía de 28 años sin títulos. Esta Copa América fue la n.º15 para la selección argentina y significó la 1° consagración (en mayores) de Lionel Messi con los colores de su nación.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 09 de julio de 2026*
+*Última actualización: 10 de julio de 2026*
