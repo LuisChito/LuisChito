@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 11/07/2026: **Año 2022** - En México, se inicia la remodelación de la línea 1 del Metro de la Ciudad de México.
+- 12/07/2026: **Año 2014** - bombardeo del ejército ucraniano en el suburbio de Marynka (Donetsk) deja al menos 10 muertos durante el conflicto armado en el este del país.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 11 de julio de 2026*
+*Última actualización: 12 de julio de 2026*
