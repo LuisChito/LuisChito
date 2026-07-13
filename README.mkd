@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 12/07/2026: **Año 2014** - bombardeo del ejército ucraniano en el suburbio de Marynka (Donetsk) deja al menos 10 muertos durante el conflicto armado en el este del país.
+- 13/07/2026: **Año 2025** - En Estados Unidos el Chelsea Football Club gana el mundial de clubes 2025, venciendo al Paris Saint-Germain Football Club 3 a 0 en el MetLife Stadium ubicado en la ciudad de East Rutherford,.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 12 de julio de 2026*
+*Última actualización: 13 de julio de 2026*
