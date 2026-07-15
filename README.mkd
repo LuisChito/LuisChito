@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/07/2026: **Año 2024** - en Londres, Reino Unido, Carlos Alcaraz gana su segundo Wimbledon.
+- 15/07/2026: **Año 2021** - Se juega la final del Torneo Apertura 2021 de fútbol femenino argentino entre Boca Juniors y San Lorenzo, en el Estadio Nuevo Francisco Urbano, en la que empatarían 1-1 y San Lorenzo se terminaría imponiendo en la tanda de penaltis 2-3.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 14 de julio de 2026*
+*Última actualización: 15 de julio de 2026*
