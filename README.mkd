@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 16/07/2026: **Año 2019** - en Estados Unidos, es detenido el expresidente del Perú, Alejandro Toledo, iniciando así el proceso de extradición en su contra por el caso Odebrecht.
+- 17/07/2026: **Año 2023** - en la ciudad de Buenos Aires (Argentina), en una jornada histórica la policía comenzó a utilizar las pistolas táser luego de diversos conflictos políticos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 16 de julio de 2026*
+*Última actualización: 17 de julio de 2026*
