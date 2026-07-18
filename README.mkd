@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 17/07/2026: **Año 2023** - en la ciudad de Buenos Aires (Argentina), en una jornada histórica la policía comenzó a utilizar las pistolas táser luego de diversos conflictos políticos.
+- 18/07/2026: **Año 2019** - en la ciudad de Kioto (Japón), el ciudadano AOBA Shinji (41) quien se autopercibía como «novelista», perpetra un incendio intencional en la empresa Kyoto Animation (de la que Aoba creía que había plagiado sus novelas). Entró por la puerta principal, bloqueó las salidas de emergencia y vertió gasolina dentro de las oficinas, generando una explosión. Aoba huyó después de iniciar el incendio, pero fue perseguido por un empleado de Kyoto Animation y la policía lo capturó. Asesinó a 36 personas y dejó 34 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 17 de julio de 2026*
+*Última actualización: 18 de julio de 2026*
