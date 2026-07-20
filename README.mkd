@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/07/2026: **Año 2024** - se reportó una interrupción a nivel mundial en diversos sistemas informáticos con el sistema operativo Microsoft Windows, debido a una actualización defectuosa del software de seguridad CrowdStrike.
+- 20/07/2026: **Año 2025** - en Brasil, el jugador colombiano Richard Ríos se despide del club de fútbol Palmeiras para fichar con el Benfica de Lisboa (Portugal).
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de julio de 2026*
+*Última actualización: 20 de julio de 2026*
