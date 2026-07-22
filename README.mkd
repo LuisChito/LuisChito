@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 21/07/2026: **Año 2023** - se estrena en cines Barbie y Oppenheimer, cintas que generarían todo un revuelo en la industria cinematográfica, recaudando un total de más de $300 millones de dólares en su primer fin de semana a nivel mundial y generando desde antes del estreno, el fenómeno de internet Barbenheimer.
+- 22/07/2026: **Año 2022** - tras más de 50 años en la industria de la lucha libre y provocando un gran impacto a nivel mundial, Vince McMahon se retiró oficialmente de todas sus funciones directivas en WWE, marcando el final de una era legendaria.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 21 de julio de 2026*
+*Última actualización: 22 de julio de 2026*
