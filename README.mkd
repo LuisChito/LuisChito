@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 23/07/2026: **Año 2024** - el Real Madrid Club de Fútbol de España se convierte en el primer club en el mundo en generar más de mil millones de euros en ingresos totales durante el año.
+- 24/07/2026: **Año 2019** - en el Reino Unido, Boris Johnson se convierte en primer ministro tras la renuncia de Theresa May.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 23 de julio de 2026*
+*Última actualización: 24 de julio de 2026*
