@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 24/07/2026: **Año 2019** - en el Reino Unido, Boris Johnson se convierte en primer ministro tras la renuncia de Theresa May.
+- 25/07/2026: **Año 2022** - Despegan desde Reino Unido los aviones E-3 Sentry adquiridos por la Fuerza Aérea de Chile hacia este país
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 24 de julio de 2026*
+*Última actualización: 25 de julio de 2026*
