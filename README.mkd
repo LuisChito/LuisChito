@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/07/2026: **Año 2022** - Despegan desde Reino Unido los aviones E-3 Sentry adquiridos por la Fuerza Aérea de Chile hacia este país
+- 26/07/2026: **Año 2023** - Horas después de ser retenido por la guardia presidencial, el Presidente de Níger, Mohamed Bazoum, es derrocado y una junta militar queda al frente del país.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 25 de julio de 2026*
+*Última actualización: 26 de julio de 2026*
