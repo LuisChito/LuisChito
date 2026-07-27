@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 26/07/2026: **Año 2023** - Horas después de ser retenido por la guardia presidencial, el Presidente de Níger, Mohamed Bazoum, es derrocado y una junta militar queda al frente del país.
+- 27/07/2026: **Año 2018** - The Walt Disney Company compra todas las acciones de 21st Century Fox, así perteneciéndole todos los formatos de 20th Century Fox
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 26 de julio de 2026*
+*Última actualización: 27 de julio de 2026*
