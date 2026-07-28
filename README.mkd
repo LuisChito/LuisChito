@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 27/07/2026: **Año 2018** - The Walt Disney Company compra todas las acciones de 21st Century Fox, así perteneciéndole todos los formatos de 20th Century Fox
+- 28/07/2026: **Año 2024** - en Venezuela se celebran las elecciones presidenciales para el mandato 2025-2031.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 27 de julio de 2026*
+*Última actualización: 28 de julio de 2026*
