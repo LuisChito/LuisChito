@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/07/2026: **Año 2025** - en la península de Kamchatka, Rusia, ocurre un terremoto de 8,8, considerado hasta ahora el 6º más potente de la historia.
+- 31/07/2026: **Año 2018** - En Durango (México) se desploma un avión de Aeroméxico dejando un saldo de 100 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de julio de 2026*
+*Última actualización: 31 de julio de 2026*
