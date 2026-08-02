@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 01/08/2026: **Año 2023** - Inicio de la construcción del nuevo Estadio Libertador Simón Bolívar, sede del Club Bolívar.
+- 02/08/2026: **Año 2023** - en la Ciudad de México, una mujer es asesinada en la estación Hidalgo de la Línea 2 del Metro, luego de ser arrojada a la vías (en dirección Tasqueña), por un hombre que también, se arrojó a las vías y falleció tras recibir ambos el impacto de un tren modelo NM-02.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 01 de agosto de 2026*
+*Última actualización: 02 de agosto de 2026*
