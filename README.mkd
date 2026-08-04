@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/08/2026: **Año 2019** - Colombia se llevó el título como campeón mundial de Rugby subacuático en el Champions Cup en Alemania.
+- 04/08/2026: **Año 2025** - se estrena la temporada 14 de la serie de televisión King of the Hill después de más de 15 años sin una temporada nueva
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de agosto de 2026*
+*Última actualización: 04 de agosto de 2026*
