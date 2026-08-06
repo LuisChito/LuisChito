@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/08/2026: **Año 2021** - en Barcelona (España) el FC Barcelona anunciaba que Leo Messi no continuaría ligado al club luego de más de 20 años de trayectoria.
+- 06/08/2026: **Año 2013** - en un edificio del centro de la ciudad de Rosario (Argentina), una fuga de gas causa una explosión que derriba el edificio y deja un saldo de 21 muertos y 62 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de agosto de 2026*
+*Última actualización: 06 de agosto de 2026*
