@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/08/2026: **Año 2013** - en un edificio del centro de la ciudad de Rosario (Argentina), una fuga de gas causa una explosión que derriba el edificio y deja un saldo de 21 muertos y 62 heridos.
+- 07/08/2026: **Año 2026** - en Colombia, Abelardo de la Espriella asume el cargo de presidente para el periodo 2026‑2030
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 06 de agosto de 2026*
+*Última actualización: 07 de agosto de 2026*
