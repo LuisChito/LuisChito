@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 07/08/2026: **Año 2026** - en Colombia, Abelardo de la Espriella asume el cargo de presidente para el periodo 2026‑2030
+- 08/08/2026: **Año 2025** - en Córdoba (España), se produce un incendio en la Mezquita-Catedral, que provoca un derrumbe del techo y daños en algunas obras de arte.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 07 de agosto de 2026*
+*Última actualización: 08 de agosto de 2026*
