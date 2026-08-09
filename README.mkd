@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 08/08/2026: **Año 2025** - en Córdoba (España), se produce un incendio en la Mezquita-Catedral, que provoca un derrumbe del techo y daños en algunas obras de arte.
+- 09/08/2026: **Año 2023** - En Quito (Ecuador) el candidato presidencial Fernando Villavicencio es asesinado al salir de un mitin político.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 08 de agosto de 2026*
+*Última actualización: 09 de agosto de 2026*
