@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/08/2026: **Año 2024** - La Organización Mundial de la Salud declara una emergencia de salud pública de importancia internacional por una epidemia de mpox.
+- 15/08/2026: **Año 2023** - en Paraguay asume la presidencia Santiago Peña.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 14 de agosto de 2026*
+*Última actualización: 15 de agosto de 2026*
