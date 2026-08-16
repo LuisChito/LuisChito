@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 15/08/2026: **Año 2023** - en Paraguay asume la presidencia Santiago Peña.
+- 16/08/2026: **Año 2023** - en Nicaragua, es oficial la confiscación de la Universidad Centroamericana ordenada por el régimen de Daniel Ortega mediante un oficio judicial espurio.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 15 de agosto de 2026*
+*Última actualización: 16 de agosto de 2026*
