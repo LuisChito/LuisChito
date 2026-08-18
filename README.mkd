@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 17/08/2026: **Año 2024** - En Indonesia es inaugurada la ciudad de Nusantara, la nueva capital del país, reemplazando a Yakarta la cual fue capital de aquel país desde 1945.
+- 18/08/2026: **Año 2023** - se estrena la película estadounidense de superhéroes Blue beetle (Escarabajo azul), protagonizada por Xolo Maridueña y Bruna Marquezine.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 17 de agosto de 2026*
+*Última actualización: 18 de agosto de 2026*
