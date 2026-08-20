@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 19/08/2026: **Año 2016** - En el Estadio Guillermo Plazas Alcid de Neiva, Colombia, fallecen 4 obreros tras la caída de una placa de concreto en la fallida remodelación del mismo.
+- 20/08/2026: **Año 2025** - Se producen disturbios dentro de los octavos de final de Copa Sudamericana entre la Universidad de Chile y Independiente de Avellaneda en el estadio Libertadores de América, el incidente termina en un herido de gravedad
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 19 de agosto de 2026*
+*Última actualización: 20 de agosto de 2026*
