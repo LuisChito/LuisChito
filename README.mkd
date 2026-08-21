@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 20/08/2026: **Año 2025** - Se producen disturbios dentro de los octavos de final de Copa Sudamericana entre la Universidad de Chile y Independiente de Avellaneda en el estadio Libertadores de América, el incidente termina en un herido de gravedad
+- 21/08/2026: **Año 2023** - Nintendo confirmó que Charles Martinet dejará de prestar su voz al personaje de Mario, Luigi y de otro personajes en la franquicia de Super Mario tras 31 años de doblar a los hermanos fontaneros en cada videojuego de la franquicia, siendo su primer trabajo en la franquicia un Pinball de Super Mario en 1992 y su primeros videojuegos fueron Mario Teaches Typing 2 en 1994 y Super Mario 64 en 1996.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 20 de agosto de 2026*
+*Última actualización: 21 de agosto de 2026*
