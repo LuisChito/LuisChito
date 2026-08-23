@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/08/2026: **Año 2020** - la DC Fandome, una convención de cómics on-line global centrada en las franquicias de medios de DC Entertainment.
+- 23/08/2026: **Año 2023** - La sonda espacial Chandrayaan-3 de la India aterriza con éxito en la Luna. De esta manera, es el primer país en visitar el polo sur lunar. Este hito también convirtió a India en el cuarto país en lograr un alunizaje suave.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 22 de agosto de 2026*
+*Última actualización: 23 de agosto de 2026*
