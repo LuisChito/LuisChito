@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 24/08/2026: **Año 2021** - ceremonia de apertura de los Juegos Paralímpicos de Tokio 2020.
+- 25/08/2026: **Año 2012** - en el estado Falcón (Venezuela), el Complejo Refinador de Amuay, una de las refinerías de petróleo más grandes del mundo sufre una explosión y un posterior incendio que causa al menos 55 muertos y más de 100 heridos. Explosión en la refinería de Amuay.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 24 de agosto de 2026*
+*Última actualización: 25 de agosto de 2026*
