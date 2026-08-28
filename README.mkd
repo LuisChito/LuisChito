@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 27/08/2026: **Año 2024** - en México, El Instituto Nacional Electoral confirma que tras 35 años de historia, desaparece a nivel nacional la organización de izquierda Partido de la Revolución Democrática (PRD) al no alcanzar el 3 % de la votación nacional para conservar su registro en las Elecciones federales de México de 2024, dicha extinción se efectuaría hasta el 20 de septiembre de ese mismo año.
+- 28/08/2026: **Año 2025** - se estrenó la película costarricense Nace una esperanza.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 27 de agosto de 2026*
+*Última actualización: 28 de agosto de 2026*
