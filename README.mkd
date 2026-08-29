@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 28/08/2026: **Año 2025** - se estrenó la película costarricense Nace una esperanza.
+- 29/08/2026: **Año 2012** - tiene lugar el incidente del Peñón de Vélez de la Gomera.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 28 de agosto de 2026*
+*Última actualización: 29 de agosto de 2026*
