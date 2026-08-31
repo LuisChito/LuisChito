@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/08/2026: **Año 2023** - En Gabón, ocurre un golpe de Estado derrocando al presidente Ali Bongo y anulando el resultado de las elecciones presidenciales.
+- 31/08/2026: **Año 2020** - la revista científica PNAS (Proceedings of the National Academy of Sciences) publica que el perro cantor de Nueva Guinea no está extinguido, como se creía, según dicen científicos, y el hallazgo servirá para estudiar los trastornos vocales humanos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de agosto de 2026*
+*Última actualización: 31 de agosto de 2026*
