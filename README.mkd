@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 01/09/2026: **Año 2022** - en Buenos Aires (Argentina), el inmigrante brasileño neonazi Fernando André Sabag Montiel (35) ―del grupo ultraderechista porteño Revolución Federal― intenta asesinar a la vicepresidenta Cristina Fernández de Kirchner (69), gatillando dos veces ante el rostro de ella con un arma Bersa calibre 7.5 mm, que se atascó y no llegó a efectuar los disparos.
+- 02/09/2026: **Año 2022** - en Neiva (Colombia), siete policías son asesinados en medio de una emboscada con artefactos explosivos, perpetrada por las disidencias de las FARC.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 01 de septiembre de 2026*
+*Última actualización: 02 de septiembre de 2026*
