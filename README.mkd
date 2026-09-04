@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/09/2026: **Año 2025** - en Lisboa (Portugal), descarrila un coche funicular del elevador de la Gloria, dejando 16 muertos y 23 heridos.
+- 04/09/2026: **Año 2022** - en Chile se realiza un plebiscito constitucional, en el cual un 61.87% decide rechazar la propuesta de la Convención Constitucional.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de septiembre de 2026*
+*Última actualización: 04 de septiembre de 2026*
