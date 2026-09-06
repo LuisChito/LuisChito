@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/09/2026: **Año 2021** - se llevó a cabo la ceremonia de clausura de los Juegos Paralímpicos de Tokio 2020.
+- 06/09/2026: **Año 2022** - en el Reino Unido, Isabel II nombra a Liz Truss como su 15° primer ministro, siendo la última en encabezar el gobierno bajo el mando de Isabel, quien fallecería 2 días más tarde, el 8 de septiembre.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de septiembre de 2026*
+*Última actualización: 06 de septiembre de 2026*
