@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/09/2026: **Año 2022** - en el Reino Unido, Isabel II nombra a Liz Truss como su 15° primer ministro, siendo la última en encabezar el gobierno bajo el mando de Isabel, quien fallecería 2 días más tarde, el 8 de septiembre.
+- 07/09/2026: **Año 2025** - En la Ciudad del Vaticano, el papa León XIV canoniza a los beatos Pier Giorgio Frassati y Carlo Acutis, este último siendo el primer santo de la generación milenial.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 06 de septiembre de 2026*
+*Última actualización: 07 de septiembre de 2026*
