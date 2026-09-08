@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 07/09/2026: **Año 2025** - En la Ciudad del Vaticano, el papa León XIV canoniza a los beatos Pier Giorgio Frassati y Carlo Acutis, este último siendo el primer santo de la generación milenial.
+- 08/09/2026: **Año 2024** - Tras 11 días de actividad deportiva, finaliza los Juegos Paralímpicos de París 2024, los primeros que realizan en dicha ciudad de Francia, tras albergar los Juegos Olímpicos de verano después de 100 años.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 07 de septiembre de 2026*
+*Última actualización: 08 de septiembre de 2026*
