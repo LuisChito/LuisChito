@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 08/09/2026: **Año 2024** - Tras 11 días de actividad deportiva, finaliza los Juegos Paralímpicos de París 2024, los primeros que realizan en dicha ciudad de Francia, tras albergar los Juegos Olímpicos de verano después de 100 años.
+- 09/09/2026: **Año 2020** - en Colombia, se produjeron masivas protestas a nivel nacional tras la muerte de Javier Ordóñez, un ciudadano que falleció debido a un acto de brutalidad policial en Bogotá, donde fue sometido violentamente con una pistola eléctrica (táser). Este hecho generó una fuerte indignación, desatando manifestaciones que, aunque inicialmente pacíficas, rápidamente se tornaron violentas, resultando en disturbios, incendios de Centros de Atención Inmediata (CAI) y enfrentamientos con la policía. Las protestas dejaron un saldo de 11 personas fallecidas y cientos de heridos, poniendo en el centro del debate la necesidad de una reforma en la Policía Nacional y su uso de la fuerza.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 08 de septiembre de 2026*
+*Última actualización: 09 de septiembre de 2026*
