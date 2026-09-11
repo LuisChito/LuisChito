@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 10/09/2026: **Año 2025** - En Iztapalapa, México, ocurre la explosión de una pipa que transportaba gas LP en el distribuidor vial de "La Concordia" que deja un saldo de 32 muertos y 63 heridos.
+- 11/09/2026: **Año 2025** - Llega a Bogotá el primer tren del Metro de Bogotá.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 10 de septiembre de 2026*
+*Última actualización: 11 de septiembre de 2026*
