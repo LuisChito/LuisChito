@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 13/09/2026: **Año 2021** - en Estados Unidos inicia las transmisiones el bloque de programación Cartoonito.
+- 14/09/2026: **Año 2017** - en Singapur, Halimah Yacob asume la presidencia y se convierte en la primera mujer jefe de Estado en ese país.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 13 de septiembre de 2026*
+*Última actualización: 14 de septiembre de 2026*
