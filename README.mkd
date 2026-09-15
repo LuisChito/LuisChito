@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/09/2026: **Año 2017** - en Singapur, Halimah Yacob asume la presidencia y se convierte en la primera mujer jefe de Estado en ese país.
+- 15/09/2026: **Año 2023** - en México, se inaugura el primer tramo del Tren Interurbano México-Toluca "El Insurgente", desde Zinacantepec a Lerma, tras 9 años de construcción.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 14 de septiembre de 2026*
+*Última actualización: 15 de septiembre de 2026*
