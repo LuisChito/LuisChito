@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 15/09/2026: **Año 2023** - en México, se inaugura el primer tramo del Tren Interurbano México-Toluca "El Insurgente", desde Zinacantepec a Lerma, tras 9 años de construcción.
+- 16/09/2026: **Año 2021** - Arriba a la II Brigada Aérea (Argentina) de Paraná la primera aeronave del Sistema de Armas Beechcraft C-12 Huron (TC 117). El primero de doce unidades adquiridas en EEUU. Estas unidades se utilizaran en el Curso de Estandarización de Procedimientos para Aviadores de Transporte (CEPAT) y en funciones de enlace de las distintas brigadas aéreas.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 15 de septiembre de 2026*
+*Última actualización: 16 de septiembre de 2026*
