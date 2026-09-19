@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 18/09/2026: **Año 2022** - el Huracán Fiona impacta a Puerto Rico provocando fuertes lluvias e inundaciones.
+- 19/09/2026: **Año 2023** - Azerbaiyán lanza una ofensiva militar contra la República de Artsaj en la región de Alto Karabaj; esto lleva al éxodo de la población armenia.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 18 de septiembre de 2026*
+*Última actualización: 19 de septiembre de 2026*
