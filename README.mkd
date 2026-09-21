@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 20/09/2026: **Año 2024** - En México, oficialmente desaparece a nivel nacional la organización de izquierda Partido de la Revolución Democrática (PRD), tras 35 años de historia y de ser una de las primeras alternancias políticas en México en casi un siglo de historia.
+- 21/09/2026: **Año 2025** - En una institución educativa de la ciudad de Oruro (Bolivia) ocurrió una tragedia en plena fiesta por el Día del estudiante (denominada la festividad en Oruro como el "Saracho Fest"), cuyas consecuencias son la muerte de una estudiante de 18 años de edad, así como otra estudiante de 16 años herida (bajo internación en una Unidad de Terapia Intensiva) y las detenciones para la directora de aquella institución, cuya sentencia para dicha persona sería la detención domiciliaria ; además de Percy Ríos (vocalista del grupo musical "Sangre Cumbiera"), a quien se le había otorgado la libertad, pero debe presentarse ante la fiscalía cada 15 días.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 20 de septiembre de 2026*
+*Última actualización: 21 de septiembre de 2026*
