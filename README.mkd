@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/09/2026: **Año 2022** - en varios estados de México como Michoacán o Guerrero se siente un sismo de magnitud 6.9 en la escala de Ritcher, haciéndose la réplica del sismo del 19 de septiembre de 2022 más fuerte hasta el momento.
+- 23/09/2026: **Año 2022** - Lanzamiento del quinto álbum de la banda australiana 5 seconds of summer llamado “5sos5”.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 22 de septiembre de 2026*
+*Última actualización: 23 de septiembre de 2026*
