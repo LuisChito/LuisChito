@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/09/2026: **Año 2013** - en Arequipa (Perú) sucede un terremoto de 7,0 de magnitud.
+- 26/09/2026: **Año 2024** - En Guerrero, México, a las 13:03 UTC se produce un sismo de magnitud 5.2 en la escala de Richter que activa las alarmas sísmicas en varios estados del país.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 25 de septiembre de 2026*
+*Última actualización: 26 de septiembre de 2026*
