@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 29/09/2026: **Año 2024** - cerca de la ciudad de Vichada (Colombia) cae un helicóptero Bell Huey II de la Fuerza Aérea Colombiana cuando realizaba una misión humanitaria: fallecen sus ocho ocupantes.
+- 30/09/2026: **Año 2021** - el certificado raíz IdenTrust DST Root CA X3 de Let's Encrypt caduca y como resultado los dispositivos que tienen ese certificado dejan de conectarse a internet.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 29 de septiembre de 2026*
+*Última actualización: 30 de septiembre de 2026*
