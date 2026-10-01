@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 30/09/2026: **Año 2021** - el certificado raíz IdenTrust DST Root CA X3 de Let's Encrypt caduca y como resultado los dispositivos que tienen ese certificado dejan de conectarse a internet.
+- 01/10/2026: **Año 2024** - en México, Claudia Sheinbaum asume el cargo de presidente, convirtiéndose en la 66.º presidente de México y la primera mujer en asumir el cargo de presidente en la historia de ese país. Es la primera vez en la historia que asume un presidente en dicha fecha, luego de aprobarse una modificación a la Constitución en 2014 para la fecha de transmisión de mando del poder ejecutivo en dicha nación. También es la primera persona de origen judío en llegar a dicho cargo.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 30 de septiembre de 2026*
+*Última actualización: 01 de octubre de 2026*
