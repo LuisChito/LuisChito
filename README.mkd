@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 02/10/2026: **Año 2024** - segundo día de la llamarada solar de tipo X7.15 que sucedió en la región AR 3842 del Sol, otra llamarada importante de la misma región que produjo la X9.1. Se trata de la segunda erupción más grande del ciclo solar 25 y también la más intensa desde 2017.
+- 03/10/2026: **Año 2024** - tercer y último día de la llamarada solar de tipo X7.15 que sucedió en la región AR 3842 del Sol; otra llamarada importante de la misma región que produjo la X9.1. Se trata de la segunda erupción más grande del ciclo solar 25 y también la más intensa desde 2017.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 02 de octubre de 2026*
+*Última actualización: 03 de octubre de 2026*
