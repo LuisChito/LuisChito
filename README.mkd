@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/10/2026: **Año 2024** - tercer y último día de la llamarada solar de tipo X7.15 que sucedió en la región AR 3842 del Sol; otra llamarada importante de la misma región que produjo la X9.1. Se trata de la segunda erupción más grande del ciclo solar 25 y también la más intensa desde 2017.
+- 04/10/2026: **Año 2021** - Facebook y otras redes sociales sufren un ataque Cibernético, provocando pérdidas de aproximadamente 6000 millones de dólares para la empresa, el robo de Información personal de más de 1500 millones de usuarios y la caída mundial de las redes durante 7 horas consecutivas, siendo la peor en la historia reciente.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 03 de octubre de 2026*
+*Última actualización: 04 de octubre de 2026*
