@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 04/10/2026: **Año 2021** - Facebook y otras redes sociales sufren un ataque Cibernético, provocando pérdidas de aproximadamente 6000 millones de dólares para la empresa, el robo de Información personal de más de 1500 millones de usuarios y la caída mundial de las redes durante 7 horas consecutivas, siendo la peor en la historia reciente.
+- 05/10/2026: **Año 2021** - en Argentina, Elena Highton, única ministra mujer de la Corte Suprema de Justicia, presenta su renuncia al cargo.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 04 de octubre de 2026*
+*Última actualización: 05 de octubre de 2026*
