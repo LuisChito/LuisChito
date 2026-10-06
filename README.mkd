@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 05/10/2026: **Año 2021** - en Argentina, Elena Highton, única ministra mujer de la Corte Suprema de Justicia, presenta su renuncia al cargo.
+- 06/10/2026: **Año 2018** - en Estados unidos se disputo la pelea de Artes Marciales Mixtas por el Campeonato de peso ligero de UFC entre Khabib Nurmagomedov y Connor McGregor aportando una pelea a una rivalidad que ya era grande antes de ese día.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 05 de octubre de 2026*
+*Última actualización: 06 de octubre de 2026*
