@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/10/2026: **Año 2018** - en Estados unidos se disputo la pelea de Artes Marciales Mixtas por el Campeonato de peso ligero de UFC entre Khabib Nurmagomedov y Connor McGregor aportando una pelea a una rivalidad que ya era grande antes de ese día.
+- 07/10/2026: **Año 2023** - El grupo militante islamista Hamás lanza un ataque contra Israel, matando a alrededor de 1200 personas, en su mayoría civiles, y tomando a más de 240 rehenes. En respuesta Israel inicia el conflicto palestino, denominado la Guerra de Gaza.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 06 de octubre de 2026*
+*Última actualización: 07 de octubre de 2026*
