@@ -7,7 +7,7 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 07/10/2026: **Año 2023** - El grupo militante islamista Hamás lanza un ataque contra Israel, matando a alrededor de 1200 personas, en su mayoría civiles, y tomando a más de 240 rehenes. En respuesta Israel inicia el conflicto palestino, denominado la Guerra de Gaza.
+- 08/10/2026: **Año 2021** - Facebook e Instagram vuelven a caer 4 días después de la mayor caída de su historia.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Habilidades
@@ -47,4 +47,4 @@ Soy estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Web co
 
 ---
 
-*Última actualización: 07 de octubre de 2026*
+*Última actualización: 08 de octubre de 2026*
