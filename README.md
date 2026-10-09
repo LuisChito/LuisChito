@@ -3,12 +3,11 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=LuisChito&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Desarrollador+Full-Stack;Ingeniero+en+Sistemas+Computacionales;Arquitectura+de+sistemas+y+optimización+de+procesos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Ingeniero+en+sistemas+computacionales;Desarollador+Full-Stack;Arquitectura+de+sistemas" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Descargar CV](https://img.shields.io/badge/📄_Descargar_CV-00FF9C?style=for-the-badge&logoColor=black)](https://github.com/LuisChito/LuisChito/raw/master/cv/Cv_Luis_Salazar_ES.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-salazar-chz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis.dfd/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisChito)
