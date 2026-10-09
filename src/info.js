@@ -1,7 +1,7 @@
 const fs = require('node:fs/promises');
 const path = require('node:path');
 
-const README_PATH = path.resolve(__dirname, '../README.mkd');
+const README_PATH = path.resolve(__dirname, '../README.md');
 const START_MARKER = '<!-- EVENTO_HISTORICO:START -->';
 const END_MARKER = '<!-- EVENTO_HISTORICO:END -->';
 
