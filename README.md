@@ -76,7 +76,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 <div align="center">
 
-📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/) o descarga mi [CV](https://github.com/LuisChito/LuisChito/raw/master/cv/Cv_Luis_Salazar_ES.pdf).
+📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
 *Última actualización: 08 de octubre de 2026*
 
