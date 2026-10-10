@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 09/10/2026: **Año 2024** - Internet Archive sufre una importante filtración de datos, con el robo de 31 millones de contraseñas. Poco después, Wayback Machine se ve afectada por ataques DDOS, lo que hace que el sitio sea inaccesible durante cuatro días mientras los administradores de Internet Archive realizan reparaciones para mejorar la seguridad.
+- 10/10/2026: **Año 2025** - en Lima (Perú), concluye el Proceso de vacancia presidencial contra Dina Boluarte resultando en su destitución como presidenta de ese país y su sustitución por José Jerí.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 09 de octubre de 2026*
+*Última actualización: 10 de octubre de 2026*
 
 </div>
