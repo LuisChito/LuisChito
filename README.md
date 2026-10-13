@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 12/10/2026: **Año 2016** - El Gobernador de Veracruz de Ignacio de la Llave (México) Javier Duarte de Ochoa renuncia a gobernador por acusaciones de corrupción y de enriquecimiento ilícito.
+- 13/10/2026: **Año 2022** - Marcelo Gallardo anuncia su retiro del Club Atlético River Plate luego de ocho años como entrenador.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 12 de octubre de 2026*
+*Última actualización: 13 de octubre de 2026*
 
 </div>
