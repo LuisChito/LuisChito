@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 14/10/2026: **Año 2025** - Windows 10 dejó de recibir soporte de Microsoft después de 10 años.
+- 15/10/2026: **Año 2017** - Un gran incendio forestal devasta la región española de Galicia y el norte de Portugal, dejando decenas de muertes.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 14 de octubre de 2026*
+*Última actualización: 15 de octubre de 2026*
 
 </div>
