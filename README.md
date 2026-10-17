@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 16/10/2026: **Año 2023** - The Walt Disney Company cumple 100 años de su creación.
+- 17/10/2026: **Año 2013** - Microsoft lanza Windows 8.1 en la Tienda de Windows de forma gratuita para los usuarios que ya disponen de la versión Windows 8.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 16 de octubre de 2026*
+*Última actualización: 17 de octubre de 2026*
 
 </div>
