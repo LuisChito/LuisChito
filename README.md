@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 17/10/2026: **Año 2013** - Microsoft lanza Windows 8.1 en la Tienda de Windows de forma gratuita para los usuarios que ya disponen de la versión Windows 8.
+- 18/10/2026: **Año 2019** - en Santiago (Chile) las movilizaciones contra el alza del transporte público alcanzan su punto cúlmine, dando inicio al estallido social, y al proceso constituyente.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 17 de octubre de 2026*
+*Última actualización: 18 de octubre de 2026*
 
 </div>
