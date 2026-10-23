@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 22/10/2026: **Año 2022** - se retiran del fútbol profesional dos ídolos de San Lorenzo de Almagro, los jugadores Néstor Ortigoza y Sebastián Torrico.
+- 23/10/2026: **Año 2018** - en el delta del río de las Perlas en China se inaugura el puente Hong Kong-Zhuhai-Macao, con una longitud total de 55 km.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 22 de octubre de 2026*
+*Última actualización: 23 de octubre de 2026*
 
 </div>
