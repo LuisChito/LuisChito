@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 23/10/2026: **Año 2018** - en el delta del río de las Perlas en China se inaugura el puente Hong Kong-Zhuhai-Macao, con una longitud total de 55 km.
+- 24/10/2026: **Año 2024** - en Ciudad del Vaticano, el papa Francisco publica su cuarta encíclica, Dilexit nos
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 23 de octubre de 2026*
+*Última actualización: 24 de octubre de 2026*
 
 </div>
