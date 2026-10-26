@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/10/2026: **Año 2020** - en Chile se lleva a cabo el Plebiscito Constitucional..
+- 26/10/2026: **Año 2018** - el futbolista argentino Leo Messi llega a 100 millones de seguidores en Instagram.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 25 de octubre de 2026*
+*Última actualización: 26 de octubre de 2026*
 
 </div>
