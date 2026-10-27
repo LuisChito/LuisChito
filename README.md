@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 26/10/2026: **Año 2018** - el futbolista argentino Leo Messi llega a 100 millones de seguidores en Instagram.
+- 27/10/2026: **Año 2019** - en Argentina, la fórmula presidencial integrada por Alberto Fernández y Cristina Fernández de Kirchner son elegidos como presidente y vicepresidenta.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 26 de octubre de 2026*
+*Última actualización: 27 de octubre de 2026*
 
 </div>
