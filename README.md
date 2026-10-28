@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 27/10/2026: **Año 2019** - en Argentina, la fórmula presidencial integrada por Alberto Fernández y Cristina Fernández de Kirchner son elegidos como presidente y vicepresidenta.
+- 28/10/2026: **Año 2024** - se celebró la edición número 68 de la gala del Ballon d'OR de la famosa revista France Football, en donde Rodri se consagra ser de oro con el balón de oro masculino
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 27 de octubre de 2026*
+*Última actualización: 28 de octubre de 2026*
 
 </div>
