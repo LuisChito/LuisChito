@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 01/11/2026: **Año 2016** - Miroslav Klose, hasta la fecha el máximo goleador en la historia de las Copas del Mundo, se retira oficialmente del fútbol.
+- 02/11/2026: **Año 2023** - la banda británica The Beatles, lanza después de 27 años después de publicar su canción Real Love su último sencillo grabado como banda una canción escrita por John Lennon en 1979 llamada Now and Then.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 01 de noviembre de 2026*
+*Última actualización: 02 de noviembre de 2026*
 
 </div>
