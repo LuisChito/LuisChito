@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 02/11/2026: **Año 2023** - la banda británica The Beatles, lanza después de 27 años después de publicar su canción Real Love su último sencillo grabado como banda una canción escrita por John Lennon en 1979 llamada Now and Then.
+- 03/11/2026: **Año 2025** - en el norte de Afganistán sucede un terremoto, dejando 30 muertos y más de 900 heridos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 02 de noviembre de 2026*
+*Última actualización: 03 de noviembre de 2026*
 
 </div>
