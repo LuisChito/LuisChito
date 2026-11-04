@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 03/11/2026: **Año 2025** - en el norte de Afganistán sucede un terremoto, dejando 30 muertos y más de 900 heridos.
+- 04/11/2026: **Año 2023** - en Río de Janeiro (Brasil), Fluminense de Brasil vence 2–1 a Boca Juniors de Argentina en el Estadio de Maracaná, y se consagra campeón de la Copa Libertadores 2023.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 03 de noviembre de 2026*
+*Última actualización: 04 de noviembre de 2026*
 
 </div>
