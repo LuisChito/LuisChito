@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 04/11/2026: **Año 2023** - en Río de Janeiro (Brasil), Fluminense de Brasil vence 2–1 a Boca Juniors de Argentina en el Estadio de Maracaná, y se consagra campeón de la Copa Libertadores 2023.
+- 05/11/2026: **Año 2024** - en Estados Unidos se celebran las elecciones para elegir al 47.º presidente. Siendo elegido Donald Trump, de modo que, al ser reelecto de manera no consecutiva, es el primer presidente en volver a la Casa Blanca en un siglo mediante reelección no consecutiva. El anterior había sido Grover Cleveland.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 04 de noviembre de 2026*
+*Última actualización: 05 de noviembre de 2026*
 
 </div>
