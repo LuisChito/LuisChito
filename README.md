@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 06/11/2026: **Año 2022** - Racing Club, se consagró campeón del Trofeo de Campeones tras derrotar a Boca Juniors.
+- 07/11/2026: **Año 2020** - Joe Biden gana las elecciones presidenciales de Estados Unidos de 2020 después de 4 días.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 06 de noviembre de 2026*
+*Última actualización: 07 de noviembre de 2026*
 
 </div>
