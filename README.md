@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 08/11/2026: **Año 2023** - Cierra la plataforma Omegle sin anuncio previo.
+- 09/11/2026: **Año 2022** - En la guerra de Ucrania las tropas rusas anuncian su retirada de la orilla occidental del Dniéper, propiciando la reconquista ucraniana de la importante ciudad de Jersón.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 08 de noviembre de 2026*
+*Última actualización: 09 de noviembre de 2026*
 
 </div>
