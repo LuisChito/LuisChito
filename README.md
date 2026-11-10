@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 09/11/2026: **Año 2022** - En la guerra de Ucrania las tropas rusas anuncian su retirada de la orilla occidental del Dniéper, propiciando la reconquista ucraniana de la importante ciudad de Jersón.
+- 10/11/2026: **Año 2021** - la plataforma YouTube decide ocultar el conteo de «no me gusta» (dislikes) para mitigar el presunto ambiente acoso contra youtubers.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 09 de noviembre de 2026*
+*Última actualización: 10 de noviembre de 2026*
 
 </div>
