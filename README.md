@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 12/11/2026: **Año 2022** - En Perú el Club Alianza Lima se corona bicampeón de la Primera División del Perú, tras ganar la final a Foot Ball Club Melgar con un global de 2-1
+- 13/11/2026: **Año 2024** - Se produce una explosión y atentado en Brasilia originando tres muertos cerca del Palacio presidencial y la sede del Congreso.El autor del atentado había participado en asalto a la Plaza de los Tres Poderes de Brasilia se produjo el 8 de enero de 2023, cuando partidarios del expresidente Jair Bolsonaro intentaron realizar la toma de la sede de los poderes.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 12 de noviembre de 2026*
+*Última actualización: 13 de noviembre de 2026*
 
 </div>
