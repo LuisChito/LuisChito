@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 13/11/2026: **Año 2024** - Se produce una explosión y atentado en Brasilia originando tres muertos cerca del Palacio presidencial y la sede del Congreso.El autor del atentado había participado en asalto a la Plaza de los Tres Poderes de Brasilia se produjo el 8 de enero de 2023, cuando partidarios del expresidente Jair Bolsonaro intentaron realizar la toma de la sede de los poderes.
+- 14/11/2026: **Año 2021** - en Argentina, se realizan las elecciones legislativas de medio término. Por primera vez desde la vuelta a la democracia (1983), el peronismo pierde el cuórum en la Cámara de Senadores.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 13 de noviembre de 2026*
+*Última actualización: 14 de noviembre de 2026*
 
 </div>
