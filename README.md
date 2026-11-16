@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 15/11/2026: **Año 2022** - De acuerdo a la Organización de las Naciones Unidas, la población mundial llega a los ocho mil millones de habitantes.
+- 16/11/2026: **Año 2022** - Se lanza el vuelo Artemis 1 en el cohete SLS del Programa Artemis de la NASA el programa que pretende llevar de nuevo a los humanos hacia la Luna.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 15 de noviembre de 2026*
+*Última actualización: 16 de noviembre de 2026*
 
 </div>
