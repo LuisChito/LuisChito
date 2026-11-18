@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 17/11/2026: **Año 2020** - en Lima, Francisco Sagasti asume la presidencia del Perú tras la renuncia del entonces jefe de Estado, Manuel Merino.
+- 18/11/2026: **Año 2022** - en Perú, accidente del Vuelo 2213 de LATAM Perú, aeronave A320Neo la cual colisiona en el aeropuerto internacional Jorge Chávez de Lima con un vehículo de emergencia mientras estaba en carrera de despegue hacia la ciudad de Juliaca.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 17 de noviembre de 2026*
+*Última actualización: 18 de noviembre de 2026*
 
 </div>
