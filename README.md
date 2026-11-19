@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 18/11/2026: **Año 2022** - en Perú, accidente del Vuelo 2213 de LATAM Perú, aeronave A320Neo la cual colisiona en el aeropuerto internacional Jorge Chávez de Lima con un vehículo de emergencia mientras estaba en carrera de despegue hacia la ciudad de Juliaca.
+- 19/11/2026: **Año 2026** - Después de más de 13 años, Rockstar Games lanza Grand Theft Auto VI para PlayStation 5 y XBox Series X|S. Su estreno culmina con la espera más grande en la historia de los videojuegos y se consolida con una colaboración a nivel mundial.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 18 de noviembre de 2026*
+*Última actualización: 19 de noviembre de 2026*
 
 </div>
