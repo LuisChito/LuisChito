@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 21/11/2026: **Año 2023** - en el Estadio Maracaná, luego de una trifulca policial, por primera vez en su historia, la selección de fútbol de Brasil es derrotada en su tierra. A su vez, Argentina se convierte en la primera selección en ganar por Eliminatorias CONMEBOL en Brasil en calidad de visitante. En esta serie de rachas, por primera vez en su historia, Brasil es derrotado tres veces consecutivas.
+- 22/11/2026: **Año 2022** - la selección de fútbol de Arabia Saudita da la sorpresa del mundial tras vencer 2 a 1 a Argentina en su primer encuentro del mundial.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 21 de noviembre de 2026*
+*Última actualización: 22 de noviembre de 2026*
 
 </div>
