@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 23/11/2026: **Año 2024** - en Asunción (Paraguay), Racing Club de Argentina vence 3–1 a Cruzeiro de Brasil en el Estadio General Pablo Rojas, y se consagra campeón de la Copa Sudamericana 2024.
+- 24/11/2026: **Año 2021** - El equipo informático de Alibaba Group informa en privado a la organización de soporte de software Apache sobre una vulnerabilidad en una librería de Java conocida como Log4j, que permite la ejecución de código arbitrario y que es catalogada de severa gravedad.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 23 de noviembre de 2026*
+*Última actualización: 24 de noviembre de 2026*
 
 </div>
