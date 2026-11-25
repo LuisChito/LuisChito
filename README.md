@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 24/11/2026: **Año 2021** - El equipo informático de Alibaba Group informa en privado a la organización de soporte de software Apache sobre una vulnerabilidad en una librería de Java conocida como Log4j, que permite la ejecución de código arbitrario y que es catalogada de severa gravedad.
+- 25/11/2026: **Año 2024** - el asteroide 2024 PT5, de 11 metros de diámetro, escapa de la gravedad del planeta Tierra, a la que estuvo atado como una «miniluna» durante un período de 57 días (desde el 29 de septiembre).
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 24 de noviembre de 2026*
+*Última actualización: 25 de noviembre de 2026*
 
 </div>
