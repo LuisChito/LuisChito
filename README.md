@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 25/11/2026: **Año 2024** - el asteroide 2024 PT5, de 11 metros de diámetro, escapa de la gravedad del planeta Tierra, a la que estuvo atado como una «miniluna» durante un período de 57 días (desde el 29 de septiembre).
+- 26/11/2026: **Año 2025** - en Hong Kong, se produce un incendio en el complejo residencial Wang Fu Court, en el distrito de Tai Po, dejando 151 muertos.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 25 de noviembre de 2026*
+*Última actualización: 26 de noviembre de 2026*
 
 </div>
