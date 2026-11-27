@@ -60,7 +60,7 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 ## Acontecimiento histórico de hoy
 
 <!-- EVENTO_HISTORICO:START -->
-- 26/11/2026: **Año 2025** - en Hong Kong, se produce un incendio en el complejo residencial Wang Fu Court, en el distrito de Tai Po, dejando 151 muertos.
+- 27/11/2026: **Año 2020** - En Ecuador, en el encuentro entre Liga de Quito y Centro Deportivo Olmedo, el árbitro Gabriel Ismael González Cordero paró el juego a los diez minutos exactos del primer tiempo, en plena jugada, para homenajear a Diego Armando Maradona, a los tres días de su fallecimiento.
 <!-- EVENTO_HISTORICO:END -->
 
 ## Estadísticas de GitHub
@@ -78,6 +78,6 @@ Estudiante de Ingeniería en Sistemas Computacionales y Desarrollador Full-Stack
 
 📬 ¿Hablamos? Búscame en [LinkedIn](https://www.linkedin.com/in/luis-salazar-chz/)
 
-*Última actualización: 26 de noviembre de 2026*
+*Última actualización: 27 de noviembre de 2026*
 
 </div>
